@@ -1,0 +1,76 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Redressed';
+  font-size: 5rem;
+  color: #86C6F4;
+  margin: 4.5rem 0 0 0;
+}
+
+h2 {
+  font-family: 'Redressed';
+  font-size: 3rem;
+  line-height: 2;
+  color: #86C6F4;
+  text-align: left;
+  margin: 3rem 0 0 0;
+}
+
+h3 {
+  font-family: 'Ubuntu';
+  font-weight: normal;
+  padding-top: 7rem;
+  color: #334756;
+}
+
+h4 {
+  font-family: 'Ubuntu';
+  font-weight: normal;
+  color: #334756;
+  margin: 4rem 0 0 0;
+}
+
+.name {
+  width: 25rem;
+  margin: auto;
+}
+
+.text_1 {
+  width: 35rem;
+  margin-top: 0;
+  margin-left: 10rem;
+}
+
+#flags {
+  width: 15%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#confetti {
+  width: 15%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#birthday-girl {
+  width: 7rem;
+  float: right;
+}
+
+#fireworks {
+  width: 8.5rem;
+  float: left;
+}
+
+#birthday-cake {
+  width: 13rem;
+  position: absolute;
+  top: 25rem;
+  right: 3rem;
+}
